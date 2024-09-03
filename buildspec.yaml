@@ -16,4 +16,8 @@ phases:
 artifacts:
   files:
     - build/*
+<<<<<<< HEAD
     -index.html
+=======
+    - index.html
+>>>>>>> 8cd60655e651b2fbe3b0376de1a8d199b415d136
